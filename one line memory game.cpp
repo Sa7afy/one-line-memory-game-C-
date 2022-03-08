@@ -174,7 +174,7 @@ cout << "FCAI-CU"<<endl;
 
 cout<<"Game Description:"<<endl;
 
-cout<<"Choose two numbers, if their value is equal, you will get a point"<<endl;
+cout<<"Choose two numbers, if their values are equal, you will get a point"<<endl;
 
 cout<<"The most points will win" <<endl;
 
